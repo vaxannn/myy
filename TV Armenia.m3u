@@ -1,302 +1,294 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+#EXTM3U
+#EXTINF:-1,H1
+http://ott-cdn.ucom.am/s1/index.m3u8
 
-\f0\fs24 \cf0 #EXTM3U\
-#EXTINF:-1,H1\
-http://ott-cdn.ucom.am/s1/index.m3u8\
-\
-#EXTINF:-1,H2\
-http://ott-cdn.ucom.am/s2/index.m3u8\
-\
-#EXTINF:-1,Azatutyun\
-http://ott-cdn.ucom.am/s3/index.m3u8\
-\
-#EXTINF:-1,Armenia TV\
-http://ott-cdn.ucom.am/s4/index.m3u8\
-\
-#EXTINF:-1,TV 5\
-http://ott-cdn.ucom.am/s6/index.m3u8\
-\
-#EXTINF:-1,Erkir Media\
-http://ott-cdn.ucom.am/s7/index.m3u8\
-\
-#EXTINF:-1,ATV\
-http://ott-cdn.ucom.am/s8/index.m3u8\
-\
-#EXTINF:-1,21\
-http://ott-cdn.ucom.am/s10/index.m3u8\
-\
-#EXTINF:-1,ArmNews\
-http://ott-cdn.ucom.am/s11/index.m3u8\
-\
-#EXTINF:-1,Nor Hayastan\
-http://ott-cdn.ucom.am/s12/index.m3u8\
-\
-#EXTINF:-1,Shoghakat\
-http://ott-cdn.ucom.am/s13/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1055 \u1077 \u1088 \u1074 \u1099 \u1081  \u1082 \u1072 \u1085 \u1072 \u1083 \
-http://ott-cdn.ucom.am/s14/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1055 \u1083 \u1072 \u1085 \u1077 \u1090 \u1072  \u1056 \u1058 \u1056 \
-http://ott-cdn.ucom.am/s15/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1056 \u1086 \u1089 \u1089 \u1080 \u1103  \u1050 \
-http://ott-cdn.ucom.am/s16/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1053 \u1058 \u1042 \
-http://ott-cdn.ucom.am/s17/index.m3u8\
-\
-#EXTINF:-1,Food\
-http://ott-cdn.ucom.am/s18/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1058 \u1053 \u1058 \
-http://ott-cdn.ucom.am/s19/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s20/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1056 \u1086 \u1089 \u1089 \u1080 \u1103  24\
-http://ott-cdn.ucom.am/s21/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1344 \u1377 \u1397  \u1343 \u1387 \u1398 \u1400 \
-http://ott-cdn.ucom.am/s22/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s23/index.m3u8\
-\
-#EXTINF:-1,BBC\
-http://ott-cdn.ucom.am/s24/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s25/index.m3u8\
-\
-#EXTINF:-1,DW (French)\
-http://ott-cdn.ucom.am/s26/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s27/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1052 \u1091 \u1079  \u1058 \u1042 \
-http://ott-cdn.ucom.am/s28/index.m3u8\
-\
-#EXTINF:-1,Fashion TV\
-http://ott-cdn.ucom.am/s30/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1047 \u1072 \u1075 \u1086 \u1088 \u1086 \u1076 \u1085 \u1099 \u1081  \u1058 \u1042 \
-http://ott-cdn.ucom.am/s31/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1364 \u1400 \u1396 \u1381 \u1380 \u1387  4\
-http://ott-cdn.ucom.am/s32/index.m3u8\
-\
-#EXTINF:-1,A2\
-http://ott-cdn.ucom.am/s33/index.m3u8\
-\
-#EXTINF:-1,Bridge TV\
-http://ott-cdn.ucom.am/s34/index.m3u8\
-\
-#EXTINF:-1,Mezzo\
-http://ott-cdn.ucom.am/s35/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1056 \u1041 \u1050 \
-http://ott-cdn.ucom.am/s36/index.m3u8\
-\
-#EXTINF:-1,English Club TV\
-http://ott-cdn.ucom.am/s37/index.m3u8\
-\
-#EXTINF:-1,CTC LOVE\
-http://ott-cdn.ucom.am/s38/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1052 \u1048 \u1056 \
-http://ott-cdn.ucom.am/s39/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1048 \u1089 \u1090 \u1086 \u1088 \u1080 \u1103 \
-http://ott-cdn.ucom.am/s40/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1060 \u1091 \u1090 \u1073 \u1086 \u1083  \u1058 \u1042 \
-http://ott-cdn.ucom.am/s41/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1355 \u1377 \u1398  TV\
-http://ott-cdn.ucom.am/s42/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1058 \u1042 \
-http://ott-cdn.ucom.am/s43/index.m3u8\
-\
-#EXTINF:-1,EU HD\
-http://ott-cdn.ucom.am/s44/index.m3u8\
-\
-#EXTINF:-1,a1\
-http://ott-cdn.ucom.am/s45/index.m3u8\
-\
-#EXTINF:-1,Tuntunik\
-http://ott-cdn.ucom.am/s46/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1055 \u1086 \u1073 \u1077 \u1076 \u1072 \
-http://ott-cdn.ucom.am/s47/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1366 \u1387 \u1388 \u1396 \u1382 \u1400 \u1398 \
-http://ott-cdn.ucom.am/s48/index.m3u8\
-\
-#EXTINF:-1,MCM music\
-http://ott-cdn.ucom.am/s49/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1055 \u1103 \u1090 \u1085 \u1080 \u1094 \u1072  international\
-http://ott-cdn.ucom.am/s50/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s51/index.m3u8\
-\
-#EXTINF:-1,CTC\
-http://ott-cdn.ucom.am/s52/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1337 \u1329 \u1358 \u1329  TV\
-http://ott-cdn.ucom.am/s53/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1058 \u1042  \u1062 \
-http://ott-cdn.ucom.am/s54/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1056 \u1099 \u1073 \u1086 \u1083 \u1086 \u1074 \
-http://ott-cdn.ucom.am/s55/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s56/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1056 \u1099 \u1078 \u1080 \u1081 \
-http://ott-cdn.ucom.am/s57/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1052 \u1091 \u1083 \u1100 \u1090 \
-http://ott-cdn.ucom.am/s58/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s59/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s60/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1053 \u1072 \u1089 \u1090 \u1086 \u1103 \u1097 \u1077 \u1077  \u1042 \u1088 \u1077 \u1084 \u1103 \
-http://ott-cdn.ucom.am/s61/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s62/index.m3u8\
-\
-#EXTINF:-1,RTG HD\
-http://ott-cdn.ucom.am/s63/index.m3u8\
-\
-#EXTINF:-1,A home of HBO\
-http://ott-cdn.ucom.am/s64/index.m3u8\
-\
-#EXTINF:-1,NBC NEWS\
-http://ott-cdn.ucom.am/s65/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1357 \u1387 \u1398 \u1381 \u1396 \u1377 \u1398 \
-http://ott-cdn.ucom.am/s66/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s67/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1040 \u1088 \u1089 \u1077 \u1085 \u1072 \u1083 \
-http://ott-cdn.ucom.am/s68/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s70/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1058 \u1077 \u1083 \u1077 \u1087 \u1091 \u1090 \u1077 \u1096 \u1077 \u1089 \u1090 \u1074 \u1080 \u1103 \
-http://ott-cdn.ucom.am/s71/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s72/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1344 \u1329 \u1349  TV\
-http://ott-cdn.ucom.am/s73/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1341 \u1329 \u1346 \u1329 \u1340 \u1339 \u1364 \
-http://ott-cdn.ucom.am/s74/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s75/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s76/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1053 \u1058 \u1042  \u1089 \u1090 \u1080 \u1083 \u1100 \
-http://ott-cdn.ucom.am/s77/index.m3u8\
-\
-#EXTINF:-1,Bridge TV 2\
-http://ott-cdn.ucom.am/s78/index.m3u8\
-\
-#EXTINF:-1,Fast Box & Fun\
-http://ott-cdn.ucom.am/s79/index.m3u8\
-\
-#EXTINF:-1,RTG TV\
-http://ott-cdn.ucom.am/s80/index.m3u8\
-\
-#EXTINF:-1,Senata & Sports\
-http://ott-cdn.ucom.am/s81/index.m3u8\
-\
-#EXTINF:-1,Senata Sport 2\
-http://ott-cdn.ucom.am/s82/index.m3u8\
-\
-#EXTINF:-1,Armenia TV permium 1\
-http://ott-cdn.ucom.am/s83/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s84/index.m3u8\
-\
-#EXTINF:-1,4\
-http://ott-cdn.ucom.am/s85/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s86/index.m3u8\
-\
-#EXTINF:-1,HCT\
-http://ott-cdn.ucom.am/s87/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s88/index.m3u8\
-\
-#EXTINF:-1,Euronews\
-http://ott-cdn.ucom.am/s89/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1058 \u1086 \u1085 \u1091 \u1089 \
-http://ott-cdn.ucom.am/s90/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s91/index.m3u8\
-\
-#EXTINF:-1,Zoo TV\
-http://ott-cdn.ucom.am/s92/index.m3u8\
-\
-#EXTINF:-1,RT\
-http://ott-cdn.ucom.am/s93/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1343 \u1387 \u1398 \u1400 \u1396 \u1377 \u1398 \
-http://ott-cdn.ucom.am/s94/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1044 \u1054 \u1056 \u1040 \u1052 \u1040  \u1058 \u1042 \
-http://ott-cdn.ucom.am/s95/index.m3u8\
-\
-#EXTINF:-1,RT 2\
-http://ott-cdn.ucom.am/s96/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s97/index.m3u8\
-\
-#EXTINF:-1,H\
-http://ott-cdn.ucom.am/s98/index.m3u8\
-\
-#EXTINF:-1,\uc0\u1055 \
-http://ott-cdn.ucom.am/s99/index.m3u8\
-\
-#EXTINF:-1,4\
-http://ott-cdn.ucom.am/s100/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s101/index.m3u8\
-\
-#EXTINF:-1,?\
-http://ott-cdn.ucom.am/s102/index.m3u8\
-}
+#EXTINF:-1,H2
+http://ott-cdn.ucom.am/s2/index.m3u8
+
+#EXTINF:-1,Azatutyun
+http://ott-cdn.ucom.am/s3/index.m3u8
+
+#EXTINF:-1,Armenia TV
+http://ott-cdn.ucom.am/s4/index.m3u8
+
+#EXTINF:-1,TV 5
+http://ott-cdn.ucom.am/s6/index.m3u8
+
+#EXTINF:-1,Erkir Media
+http://ott-cdn.ucom.am/s7/index.m3u8
+
+#EXTINF:-1,ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+
+#EXTINF:-1,21
+http://ott-cdn.ucom.am/s10/index.m3u8
+
+#EXTINF:-1,ArmNews
+http://ott-cdn.ucom.am/s11/index.m3u8
+
+#EXTINF:-1,Nor Hayastan
+http://ott-cdn.ucom.am/s12/index.m3u8
+
+#EXTINF:-1,Shoghakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+
+#EXTINF:-1,Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+
+#EXTINF:-1,Планета РТР
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,Россия К
+http://ott-cdn.ucom.am/s16/index.m3u8
+
+#EXTINF:-1,НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:-1,Food
+http://ott-cdn.ucom.am/s18/index.m3u8
+
+#EXTINF:-1,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s20/index.m3u8
+
+#EXTINF:-1,Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+
+#EXTINF:-1,Հայ Կինո
+http://ott-cdn.ucom.am/s22/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s23/index.m3u8
+
+#EXTINF:-1,BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s25/index.m3u8
+
+#EXTINF:-1,DW (French)
+http://ott-cdn.ucom.am/s26/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s27/index.m3u8
+
+#EXTINF:-1,Муз ТВ
+http://ott-cdn.ucom.am/s28/index.m3u8
+
+#EXTINF:-1,Fashion TV
+http://ott-cdn.ucom.am/s30/index.m3u8
+
+#EXTINF:-1,Загородный ТВ
+http://ott-cdn.ucom.am/s31/index.m3u8
+
+#EXTINF:-1,Քոմեդի 4
+http://ott-cdn.ucom.am/s32/index.m3u8
+
+#EXTINF:-1,A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+
+#EXTINF:-1,Bridge TV
+http://ott-cdn.ucom.am/s34/index.m3u8
+
+#EXTINF:-1,Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1,РБК
+http://ott-cdn.ucom.am/s36/index.m3u8
+
+#EXTINF:-1,English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1,CTC LOVE
+http://ott-cdn.ucom.am/s38/index.m3u8
+
+#EXTINF:-1,МИР
+http://ott-cdn.ucom.am/s39/index.m3u8
+
+#EXTINF:-1,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+
+#EXTINF:-1,Футбол ТВ
+http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1,Ջան TV
+http://ott-cdn.ucom.am/s42/index.m3u8
+
+#EXTINF:-1,ТВ
+http://ott-cdn.ucom.am/s43/index.m3u8
+
+#EXTINF:-1,EU HD
+http://ott-cdn.ucom.am/s44/index.m3u8
+
+#EXTINF:-1,a1
+http://ott-cdn.ucom.am/s45/index.m3u8
+
+#EXTINF:-1,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+#EXTINF:-1,Победа
+http://ott-cdn.ucom.am/s47/index.m3u8
+
+#EXTINF:-1,Ֆիլմզոն
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:-1,MCM music
+http://ott-cdn.ucom.am/s49/index.m3u8
+
+#EXTINF:-1,Пятница international
+http://ott-cdn.ucom.am/s50/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s51/index.m3u8
+
+#EXTINF:-1,CTC
+http://ott-cdn.ucom.am/s52/index.m3u8
+
+#EXTINF:-1,ԹԱՎԱ TV
+http://ott-cdn.ucom.am/s53/index.m3u8
+
+#EXTINF:-1,ТВ Ц
+http://ott-cdn.ucom.am/s54/index.m3u8
+
+#EXTINF:-1,Рыболов
+http://ott-cdn.ucom.am/s55/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s56/index.m3u8
+
+#EXTINF:-1,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+
+#EXTINF:-1,Мульт
+http://ott-cdn.ucom.am/s58/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s59/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s60/index.m3u8
+
+#EXTINF:-1,Настоящее Время
+http://ott-cdn.ucom.am/s61/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s62/index.m3u8
+
+#EXTINF:-1,RTG HD
+http://ott-cdn.ucom.am/s63/index.m3u8
+
+#EXTINF:-1,A home of HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+
+#EXTINF:-1,NBC NEWS
+http://ott-cdn.ucom.am/s65/index.m3u8
+
+#EXTINF:-1,Սինեման
+http://ott-cdn.ucom.am/s66/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s67/index.m3u8
+
+#EXTINF:-1,Арсенал
+http://ott-cdn.ucom.am/s68/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s70/index.m3u8
+
+#EXTINF:-1,Телепутешествия
+http://ott-cdn.ucom.am/s71/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s72/index.m3u8
+
+#EXTINF:-1,ՀԱՅ TV
+http://ott-cdn.ucom.am/s73/index.m3u8
+
+#EXTINF:-1,ԽԱՂԱԼԻՔ
+http://ott-cdn.ucom.am/s74/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s75/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s76/index.m3u8
+
+#EXTINF:-1,НТВ стиль
+http://ott-cdn.ucom.am/s77/index.m3u8
+
+#EXTINF:-1,Bridge TV 2
+http://ott-cdn.ucom.am/s78/index.m3u8
+
+#EXTINF:-1,Fast Box & Fun
+http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1,RTG TV
+http://ott-cdn.ucom.am/s80/index.m3u8
+
+#EXTINF:-1,Senata & Sports
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:-1,Senata Sport 2
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+#EXTINF:-1,Armenia TV permium 1
+http://ott-cdn.ucom.am/s83/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s84/index.m3u8
+
+#EXTINF:-1,4
+http://ott-cdn.ucom.am/s85/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s86/index.m3u8
+
+#EXTINF:-1,HCT
+http://ott-cdn.ucom.am/s87/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s88/index.m3u8
+
+#EXTINF:-1,Euronews
+http://ott-cdn.ucom.am/s89/index.m3u8
+
+#EXTINF:-1,Тонус
+http://ott-cdn.ucom.am/s90/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s91/index.m3u8
+
+#EXTINF:-1,Zoo TV
+http://ott-cdn.ucom.am/s92/index.m3u8
+
+#EXTINF:-1,RT
+http://ott-cdn.ucom.am/s93/index.m3u8
+
+#EXTINF:-1,Կինոման
+http://ott-cdn.ucom.am/s94/index.m3u8
+
+#EXTINF:-1,ДОРАМА ТВ
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+#EXTINF:-1,RT 2
+http://ott-cdn.ucom.am/s96/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s97/index.m3u8
+
+#EXTINF:-1,H
+http://ott-cdn.ucom.am/s98/index.m3u8
+
+#EXTINF:-1,П
+http://ott-cdn.ucom.am/s99/index.m3u8
+
+#EXTINF:-1,4
+http://ott-cdn.ucom.am/s100/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s101/index.m3u8
+
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s102/index.m3u8
